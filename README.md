@@ -138,3 +138,5 @@ npm run seed        # Re-seed database with clean demo data
 ## Known Limitations & Future Roadmap
 See [ENGINEERING_DECISIONS.md](ENGINEERING_DECISIONS.md) for detailed architectural analysis and design trade-offs.
 # Operations-Under-Pressure
+
+<img width="1440" height="900" alt="Screenshot 2026-10-18 at 5 29 29 PM" src="https://github.com/user-attachments/assets/2be3e2a8-26af-42a4-bbe4-d950c0a5a4b4" />
